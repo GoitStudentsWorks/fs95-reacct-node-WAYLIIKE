@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/watertrack-project-nodejs-react">
+        <BrowserRouter basename="/fs95-reacct-node-WAYLIIKE">
           <HelmetProvider>
             <App />
           </HelmetProvider>
