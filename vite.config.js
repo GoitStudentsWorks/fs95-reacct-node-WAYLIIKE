@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/watertrack-project-nodejs-react',
+  base: '/fs95-reacct-node-WAYLIIKE',
 });
